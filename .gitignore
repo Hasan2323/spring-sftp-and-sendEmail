@@ -1,0 +1,5 @@
+.idea
+target
+/src/test/resources/keys/
+multibank_sftp_test
+
